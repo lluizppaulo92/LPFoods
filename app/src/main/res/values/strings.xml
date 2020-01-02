@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LpFoods</string>
+    <string name="title_activity_formulario_cadastro">FormularioCadastroActivity</string>
+</resources>
